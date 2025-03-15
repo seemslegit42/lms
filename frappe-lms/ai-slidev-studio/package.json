@@ -1,0 +1,26 @@
+{
+  "name": "ai-slidev-studio",
+  "version": "1.0.0",
+  "description": "A Slidev project for creating presentations using AI within the Frappe LMS environment.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build"
+  },
+  "dependencies": {
+    "slidev": "^0.20.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4"
+  },
+  "keywords": [
+    "slidev",
+    "presentation",
+    "AI",
+    "Frappe",
+    "LMS"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
